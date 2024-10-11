@@ -35,6 +35,8 @@ Antes de executar o script, certifique-se de que as bibliotecas necessárias est
 - Pandas
 - Matplotlib
 - Seaborn
+- base64
+- BytesIO
 
 Você pode instalar essas dependências com:
 
