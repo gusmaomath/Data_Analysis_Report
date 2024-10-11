@@ -1,4 +1,4 @@
-# Desenvolvimento do 2º Checkpoint - Data Science & Statistical Computing
+# Desenvolvimento do projeto - Data Analysis Report
 ![Badge Concluido](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN)
 
 **Nomes + RM dos integrantes:**
@@ -16,6 +16,7 @@ Este projeto é uma ferramenta para gerar relatórios HTML de análise de dados 
 Como base de teste do script foi usado o dataset "sabrina_carpenter_discography.csv" retirado do site kaggle
 > Fonte: https://www.kaggle.com/datasets/delfinaoliva/sabrina-carpenter-discography?resource=download
 
+Para avaliar o teste para acessar https://gusmaomath.github.io/Data_Analysis_Report/
 ___
 ##Funcionamento
 - Geração automática de relatórios HTML com:
