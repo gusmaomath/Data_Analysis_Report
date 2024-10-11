@@ -53,5 +53,5 @@ Para utilizar o codigo basta adicionar a linha abaixo no final do script e execu
 ```
 generate_html_analysis(df, output_html="output.html", max_categories=10)
 ```
-> O parametro "max_categories=10" é o volume de dados que voce deseja ver
+O parametro "max_categories=10" é o volume de dados que voce deseja ver
 _____
