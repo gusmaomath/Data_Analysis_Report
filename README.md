@@ -18,7 +18,7 @@ Como base de teste do script foi usado o dataset "sabrina_carpenter_discography.
 
 Para avaliar o teste basta acessar https://gusmaomath.github.io/Data_Analysis_Report/
 ___
-##Funcionamento
+## Funcionamento
 - Geração automática de relatórios HTML com:
   - Informações gerais sobre o conjunto de dados (formato, linhas duplicadas, valores ausentes).
   - Análise descritiva para cada coluna.
